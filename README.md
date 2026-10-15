@@ -1,28 +1,28 @@
-# Hey, I'm Kiranmai! 👋
+# Hi, I'm Kiranmai Paivarda 👋
 
-I'm currently pursuing my Master's in IT (Artificial Intelligence) at Macquarie University in Sydney, Australia.
+I'm a Master of Information Technology (Artificial Intelligence) student at Macquarie University in Sydney, Australia, with a background in Python full-stack development.
 
-I've worked with Python full-stack development and enjoy building applications from scratch, from designing the frontend to working on the backend. I'm interested in both software development and AI, and I want to build things that are not just technically interesting but actually useful.
+I enjoy building applications from scratch and working across both frontend and backend development. I'm currently expanding my skills in software engineering, AI, and machine learning while building projects that help me apply what I learn.
 
-### 💻 What I work with
+## Technical Skills
 
-- Python
-- JavaScript
-- React.js
-- HTML & CSS
-- SQL
+- **Languages:** Python, JavaScript, SQL
+- **Frontend:** React.js, HTML, CSS
+- **Backend:** Python, REST APIs
+- **Areas of Interest:** Full-Stack Development, AI Engineering, Machine Learning
 
-### 🌱 What I'm learning
+## What I'm Working On
 
-I'm working on improving my development skills, exploring AI and machine learning, and building projects that help me put what I learn into practice.
+- Building full-stack applications with practical use cases
+- Exploring AI and machine learning through hands-on projects
+- Improving my problem-solving and software development skills
 
-### 🚀 What you'll find here
+## Projects
 
-This is where I'll share the projects I build, experiment with new ideas, and track my growth as a developer. I'm especially interested in full-stack applications and finding ways to bring AI into real-world projects.
+I'm building my portfolio and will be adding projects that demonstrate my development skills, technical decisions, and approach to solving problems.
 
-Always learning, always building, and figuring things out one project at a time. ✨
+## Connect With Me
 
-### 🤝 Let's connect
+- **GitHub:** [KIKI-CODESSS](https://github.com/KIKI-CODESSS)
+- **LinkedIn:** Add your LinkedIn profile
 
-- GitHub: [@KIKI-CODESSS](https://github.com/KIKI-CODESSS)
-- LinkedIn: Add your LinkedIn profile here
