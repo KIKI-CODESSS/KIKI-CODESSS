@@ -24,5 +24,4 @@ I'm building my portfolio and will be adding projects that demonstrate my develo
 ## Connect With Me
 
 - **GitHub:** [KIKI-CODESSS](https://github.com/KIKI-CODESSS)
-- **LinkedIn:** Add your LinkedIn profile
 
